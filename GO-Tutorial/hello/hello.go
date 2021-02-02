@@ -14,7 +14,3 @@ fmt.PrintIn(message)
 
 }
 
-func moveCar() {
-	
-}
-}
